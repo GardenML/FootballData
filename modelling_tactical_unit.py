@@ -7,7 +7,6 @@
 import pandas as pd
 import json
 import seaborn as sns
-
 from sklearn import preprocessing
 import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = (16, 9)
